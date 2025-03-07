@@ -7,3 +7,9 @@
 [![](https://mermaid.ink/img/pako:eNo9kMFKw0AURX8lzLr9gSwEa6obV7ozk8XQTJtCMwkxWUgIGKo1VSoujF0oWlGogtRiIUqi-DXzMv0Lh2jd3fvuuQ_eC1HLMSlSUccjrqVs72C2rvPjoXh_LRdFWdwZSr2-pjRCmHzw7z5PruFqHmG2oZezMSxSuB_AbfYHYdaohKbz0yc4jOUeOJ_yJDNWSVMXR0M-eIN0DqOZmD6Uk1iGWhVu6jA-E18vUDwu0xtZ5p-5mPd_-80K2ZJIVj7nIr7kF8nyZMSL3EA1ZFPPJl1T3hFipigY-Ra1KUaqlCZtk6DnY4RZJFES-M7uAWsh1fcCWkOeE3QspLZJb1-6wDWJT7Uukf-w_6cuYXuOs_LRDzazjVI?type=png)](https://mermaid-live.nodejs.cn/edit#pako:eNo9kMFKw0AURX8lzLr9gSwEa6obV7ozk8XQTJtCMwkxWUgIGKo1VSoujF0oWlGogtRiIUqi-DXzMv0Lh2jd3fvuuQ_eC1HLMSlSUccjrqVs72C2rvPjoXh_LRdFWdwZSr2-pjRCmHzw7z5PruFqHmG2oZezMSxSuB_AbfYHYdaohKbz0yc4jOUeOJ_yJDNWSVMXR0M-eIN0DqOZmD6Uk1iGWhVu6jA-E18vUDwu0xtZ5p-5mPd_-80K2ZJIVj7nIr7kF8nyZMSL3EA1ZFPPJl1T3hFipigY-Ra1KUaqlCZtk6DnY4RZJFES-M7uAWsh1fcCWkOeE3QspLZJb1-6wDWJT7Uukf-w_6cuYXuOs_LRDzazjVI)
 
 
+
+## 受限环境解决方案
+![权限说明](https://img.shields.io/badge/Access-Under_Review-yellow)
+由于机构网络安全政策，核心代码暂存于本地加密环境。可通过以下方式验证：
+- 申请临时访问权限（需导师批准）
+- 预约本地演示（携带加密设备）
